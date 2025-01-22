@@ -2,7 +2,7 @@
 
 <p>
 ###Algunos de los temas que vimos en esta actividad:
-</p>
+<p>
 - Colección (List<>).
 - Ciclos (For).
 - Ciclos (Do - While). 
