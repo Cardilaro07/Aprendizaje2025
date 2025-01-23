@@ -1,7 +1,7 @@
 
 
 <p>
-###Algunos de los temas que vimos en esta actividad:
+### Algunos de los temas que vimos en esta actividad:
 <p>
   
 - Colección (List<>).
@@ -22,11 +22,11 @@ El logueo consta de 3 numeros para el ingreso al programa "123"
 
 ###La Actividad consta de:
 
-#####Logueo Principal.
+##### Logueo Principal.
 
 - Contraseña "123"
   
-#####Menu de Opciones.
+##### Menu de Opciones.
 
 - Ingreso
 - Mostrar lista
@@ -39,4 +39,4 @@ El logueo consta de 3 numeros para el ingreso al programa "123"
 
 Luego de escoger alguna opcion, el programa debera guardar la información suministrada por el usuario, poder listar esa inormacion y poder eliminar, buscar y ordenarla segun lo reuerido...
 
-#####Carlos Ardila.
+##### Carlos Ardila.
