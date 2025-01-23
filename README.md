@@ -1,8 +1,7 @@
 
 
-<p>
+
 ### Algunos de los temas que vimos en esta actividad:
-<p>
   
 - Colección (List<>).
   
@@ -14,13 +13,13 @@
   
 - Estructuras de control (Switch - Case)
   
-####- Entre otros comandos
+#### Entre otros comandos
 
 #### Se realizo un Logueo :
 
 El logueo consta de 3 numeros para el ingreso al programa "123"
 
-###La Actividad consta de:
+### La Actividad consta de:
 
 ##### Logueo Principal.
 
@@ -37,6 +36,6 @@ El logueo consta de 3 numeros para el ingreso al programa "123"
 - Salir
 
 
-Luego de escoger alguna opcion, el programa debera guardar la información suministrada por el usuario, poder listar esa inormacion y poder eliminar, buscar y ordenarla segun lo reuerido...
+Luego de escoger alguna opcion, el programa debera guardar la información suministrada por el usuario, poder listar esa inormacion y poder eliminar, buscar y ordenarla segun lo requerido...
 
 ##### Carlos Ardila.
