@@ -14,7 +14,7 @@ namespace Actividad2.Clases
             string claveCorrecta = "123";
             string clave;
             string nombre;
-
+           
             Console.Clear();
             Console.WriteLine("Bienvenidos al Curso Chalo CODE");
             Console.WriteLine("Actividad # 2");
